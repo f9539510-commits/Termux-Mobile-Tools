@@ -33,7 +33,8 @@ def show_panel():
     os.system('clear')
     print(f"""
 {Colors.CYAN}╔══════════════════════════════════════════════════════════════╗{Colors.RESET}
-{Colors.CYAN}║  {Colors.WHITE}KALBASO {Colors.CYAN}WebSDR Receiver{Colors.RESET}                             {Colors.CYAN}║{Colors.RESET}
+{Colors.CYAN}║  {Colors.WHITE}Calypsu | كالبسو {Colors.CYAN}WebSDR Receiver{Colors.RESET}                {Colors.CYAN}║{Colors.RESET}
+{Colors.CYAN}║  {Colors.WHITE}Matrouh, Egypt 🇪🇬{Colors.RESET}                                      {Colors.CYAN}║{Colors.RESET}
 {Colors.CYAN}╚══════════════════════════════════════════════════════════════╝{Colors.RESET}
 
 {Colors.BLUE}  CH   NAME                          DESCRIPTION                 {Colors.RESET}
@@ -63,4 +64,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
