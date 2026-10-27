@@ -24,3 +24,7 @@ cd Termux-Mobile-Tools
 python kalbaso_studio_v7.py
 # أو شغل بالأمر السريع
 2027
+
+### 📦 Download APK
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/f9539510-commits/Termux-Mobile-Tools/raw/main/KALBASO-Termux-Studio.apk)
+
