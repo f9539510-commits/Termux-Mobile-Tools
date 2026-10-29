@@ -18,5 +18,12 @@
 
 ### Download APK
 <a href="https://files.catbox.moe/3oxjfa.apk" download>تحميل تطبيق عزو APK مباشر - 17 ميجا</a>
+### 📥 تحميل Ezzo-Networks
+
+🚀 **تحميل سريع (Catbox):**
+https://files.catbox.moe/3oxjfa.apk
+
+💎 **تحميل دائم مضمون (GitHub):**
+https://github.com/f9539510-commits/Termux-Mobile-Tools/releases/download/v1.1/Ezzo-Networks.apk
 
 اضغط على الزر الأخضر فوق للتحميل المباشر
