@@ -17,6 +17,6 @@
 تطبيق عزو رادار الشبكات - تطبيق جديد من تطوير Ezzo Networks. بيعمل مسح كامل للواي فاي اللي حواليك، بيجيبلك اسم كل شبكة وقوة الإشارة ونوع الحماية والقناة. خفيف وسريع ومش بيحتاج روت.
 
 ### Download APK
-[![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/f9539510-commits/Termux-Mobile-Tools/raw/main/azzo-wifi-radar-source.zip)
+<a href="https://files.catbox.moe/3oxjfa.apk" download>تحميل تطبيق عزو APK مباشر - 17 ميجا</a>
 
 اضغط على الزر الأخضر فوق للتحميل المباشر
