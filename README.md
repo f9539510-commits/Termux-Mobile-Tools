@@ -1,7 +1,7 @@
 # KALBASO-Termux-Studio 📱
 
 ### وصف كالبسو:
-أداة احترافية خفيفة - مبتكره ومصممه ومطوره بفكر جديد للموبايل. بتخليك تصمم تطبيقات Termux وتعدل عليها من تليفونك بسهولة.
+تطبيق كالبسو ترموكس استديو - مبتكر ومصمم ومطور بفكر جديد للموبايل. بتخليك تصمم تطبيقات Termux وتعدل عليها من تليفونك بسهولة.
 
 ### Download APK
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/f9539510-commits/Termux-Mobile-Tools/raw/main/KALBASO-Termux-Studio.apk)
